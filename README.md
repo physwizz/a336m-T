@@ -3,6 +3,15 @@ a336m-T
 
 1. git clone git@github.com:physwizz/a336m-T.git
 
+
+sudo -s
+
+virtualenv -p /usr/bin/python2.7 Vpy27
+
+source Vpy27/bin/activate
+
+
+
 2. build
 ========
 
